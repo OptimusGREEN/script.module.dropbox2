@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.module.dropbox2"
    name="Dropbox Python API v2"
-   version="8.2.0.0.0.1"
-   provider-name="OptimusGREEN">
+   version="0.0.1"
+   provider-name="OptimusGREEN, Dropbox">
   <requires>
     <import addon="xbmc.python" version="2.7.0"/>
     <import addon="script.module.requests" version="2.3.0"/>
@@ -11,7 +11,7 @@
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">Dropbox API2 for Python</summary>
+    <summary lang="en">Dropbox API2 for Python (SDK 8.2.0)</summary>
     <description lang="en">Official Dropbox API Unofficialy Packaged For Kodi. All official api code by the Dropbox team.</description>
     <disclaimer lang="en"></disclaimer>
     <language></language>
